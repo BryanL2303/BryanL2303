@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BryanL2303
-- 🌱 I’m currently a Computer Science Student in NUS, i am trying to pick up software engineering.
-- 💞️ Though i have just begun learning i will try to explore more on these areas and improve my skillsets.
-- Techstack: Python, Typescript, Javascript, Java, C#, PHP, Ruby, HTML, CSS, TailwindCSS, React.
+- 🌱 I’m currently a Computer Science Student in NUS trying to learn more about software engineering.
+- 💞️ Some of my projects can be found in my public repositories!
+- Techstack: Python, Typescript, Javascript, React, Java, C#, PHP, Ruby, Ruby on Rails, HTML, CSS, TailwindCSS
 - 📫 How to reach me: 
      email: bryanlee0033@gmail.com
 
